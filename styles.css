@@ -10,3 +10,9 @@ header {
     color: rgb(223, 124, 185)
 
 }
+
+section {
+    background: rgb(245, 181, 229);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
