@@ -11,35 +11,7 @@ body {
 }
 
 button {
-    background-color: #1289a7;
+    background-color: #64A712;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
-}
-
-header {
-  border-bottom: solid 2px rgb(42, 122, 228);
-  padding: 20px;
-  font-size: 32px;
-  color: rgb(42, 122, 228);
-}
-
-section {
-  background: #5ebee4;
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
-}
-
-.chamada-texto {
-  margin-right: 15%;
-}
-
-h1 {
-  font-size: 40px;
-}
-
-p {
-  font-size: 40px;
-}
 }
